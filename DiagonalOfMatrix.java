@@ -1,5 +1,3 @@
-import javax.swing.plaf.metal.MetalBorders.ScrollPaneBorder;
-
 public class DiagonalOfMatrix {
     public static void main(String[] args) {
         int[][] mat={{1,2,3},
