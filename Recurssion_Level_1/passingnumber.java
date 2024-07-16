@@ -10,6 +10,11 @@ public class passingnumber {
             return;
         }
         System.out.println(n);
-        fun(n--);
+        //fun(n--);
+        fun(--n);
+
+        /*n-- v/s --n
+         * --n : subtract first and then pass.
+        */
     }
 }
